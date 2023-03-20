@@ -1,0 +1,6 @@
+.punkList {
+    background-color: white;
+    cursor: pointer;
+    display: flex;
+    overflow: scroll;
+}
